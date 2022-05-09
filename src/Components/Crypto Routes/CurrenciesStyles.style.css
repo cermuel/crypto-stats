@@ -1,0 +1,19 @@
+.aboutContainer {
+  color: white;
+  margin: 10px;
+  font-size: 30px;
+  font-family: Titillium;
+}
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+span {
+  color: rgb(39, 223, 39);
+}
+h1 {
+  font-size: 40px;
+  font-family: Baufra;
+  font-weight: bolder;
+}
