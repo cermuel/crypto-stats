@@ -6,6 +6,7 @@ import Main from "./Crypto Routes/Main";
 import Currencies from "./Crypto Routes/Currencies";
 
 const CryptoCurrency = () => {
+  window.alert("Click On COIN to get more info");
   return (
     <body>
       <div className="body">
