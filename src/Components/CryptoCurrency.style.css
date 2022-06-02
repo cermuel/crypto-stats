@@ -30,3 +30,30 @@ h2 {
 h3 {
   color: white;
 }
+.crypto-container {
+  display: grid;
+  grid-template-columns: 8% 15% 15% 20% 20% 25%;
+  color: white;
+  width: 100%;
+  margin: 2% 0 2% 0;
+  text-align: center;
+  font-size: 15px;
+}
+.labels {
+  display: grid;
+  grid-template-columns: 8% 15% 17% 20% 21% 27%;
+  color: white;
+  font-family: Poppins;
+  font-weight: 800;
+  font-size: 25px;
+  text-align: center;
+}
+.labels div {
+  margin-left: 5px;
+}
+hr {
+  width: 100%;
+  color: white;
+  background: white;
+  margin-top: 5px;
+}
